@@ -1,4 +1,4 @@
-
+Get the ultimate Bitwarden for macOS extension with Bitwarden for macOS elite Extension: password-sharing & malware-scanning. Featuring password-sharing and malware-scanning, it's
 
 
 
